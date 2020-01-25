@@ -1,0 +1,2 @@
+/user/4/lanusseq/2A/Systeme/TP4/ensimag-shmem/build/CMakeFiles/check.dir
+/user/4/lanusseq/2A/Systeme/TP4/ensimag-shmem/build/CMakeFiles/ensipong.dir

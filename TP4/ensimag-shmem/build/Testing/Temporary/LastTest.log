@@ -1,0 +1,18 @@
+Start testing: May 20 12:04 CEST
+----------------------------------------------------------
+1/1 Testing: pong
+1/1 Test: pong
+Command: "/user/4/lanusseq/2A/Systeme/TP4/ensimag-shmem/tests/fourpong.pl"
+Directory: /user/4/lanusseq/2A/Systeme/TP4/ensimag-shmem/build
+"pong" start time: May 20 12:04 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =  40.65 sec
+----------------------------------------------------------
+Test Passed.
+"pong" end time: May 20 12:05 CEST
+"pong" time elapsed: 00:00:40
+----------------------------------------------------------
+
+End testing: May 20 12:05 CEST

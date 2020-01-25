@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/user/4/lanusseq/2A/Systeme/TP4/ensimag-shmem/src/shmem_pong.c
+stdlib.h
+-
+unistd.h
+-
+stdint.h
+-
+sys/types.h
+-
+SDL/SDL.h
+-
+assert.h
+-
+sys/mman.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+
